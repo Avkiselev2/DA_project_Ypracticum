@@ -1,4 +1,6 @@
 # Анализ тарифных планов сотового оператора
+[HTML](https://github.com/Avkiselev2/DA_project_Ypracticum/blob/main/Telecom%20tariffs/Kiselev_telecom_tariffs.html)
+[ipynb](https://github.com/Avkiselev2/DA_project_Ypracticum/blob/main/Telecom%20tariffs/Kiselev_telecom_tariffs.ipynb)
 
 ## Описание проекта
 Компания «N», федеральный оператор сотовой связи, предлагает своим клиентам два тарифных плана: «Смарт» и «Ультра». Необходимо сделать предварительный анализ тарифов на небольшой выборке клиентов, которая содержит данные 500 пользователей «N». Необходимо понять кто они, откуда, каким тарифом пользуются, сколько звонков и сообщений каждый отправил за 2018 год.
