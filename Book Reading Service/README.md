@@ -1,6 +1,7 @@
 # Анализ БД сервиса для чтения книг по подписке
 
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.html)     [ipynb](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.ipynb)
+[HTML](https://github.com/Avkiselev2/DA_project_Ypracticum/blob/main/Book%20Reading%20Service/Kiselev_sql_book_reading_service.html)     
+[ipynb](https://github.com/Avkiselev2/DA_project_Ypracticum/blob/main/Book%20Reading%20Service/Kiselev_sql_book_reading_service.ipynb)
 
 ## Описание проекта
 Инвистиционная компания купила крупный сервис для чтения книг по подписке. Требуется проанализировать базу данных сервиса и дать рекомендации заказчику. В хранилище — информация о книгах, издательствах, авторах, а также пользовательские обзоры книг. Эти данные помогут сформулировать ценностное предложение для нового продукта.
