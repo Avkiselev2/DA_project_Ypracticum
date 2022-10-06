@@ -1,5 +1,6 @@
 # Анализ оттока клиентов банка
-
+[HTML](https://github.com/Avkiselev2/DA_project_Ypracticum/blob/main/Customer%20outflow/avkiselev_customer_churn_analysis.html)     
+[ipynb](https://github.com/Avkiselev2/DA_project_Ypracticum/blob/main/Customer%20outflow/avkiselev_customer_churn_analysis.ipynb)
 
 ## Описание проекта
 
