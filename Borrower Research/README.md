@@ -1,6 +1,7 @@
 # Исследование надёжности заёмщиков — анализ банковских данных
 
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.html)     [ipynb](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.ipynb)
+[HTML](https://github.com/Avkiselev2/DA_project_Ypracticum/blob/main/Borrower%20Research/Kiselev_borrower_research.html)    
+[ipynb](https://github.com/Avkiselev2/DA_project_Ypracticum/blob/main/Borrower%20Research/Kiselev_borrower_research.ipynb)
 
 ## Описание проекта
 На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение, количество детей клиента и другие характеристики клиента на факт возврата кредита в срок
